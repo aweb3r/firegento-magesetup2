@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Added
 
-- ...
+- PHP 8.2 compatibility: 100% compatible: scanned with phpcompatibility/php-compatibility/PHPCompatibility testVersion 8.2
 
 ### Changed
 
